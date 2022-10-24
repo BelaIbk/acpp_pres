@@ -2,7 +2,7 @@
 
 ## Adapted Goals
 - Overworld with one section
-- Characters without state (memory of pat conversations)
+- Characters without state (no memory of past conversations)
 - Simple inventory management (Only one slot per category)
 - Stats: No adaptive learning from combat, no damage-specific attacks for different enemies
 - Simple saving in menu (No savepoints)
