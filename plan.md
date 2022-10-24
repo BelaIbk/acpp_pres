@@ -37,6 +37,10 @@
 - Create placeholder map with Tiled
 - Planned future steps
 
+![](images/structure.jpg)
+
+
+
 ## Next steps
 - Create, parse and display simple world
 - (Implement main character that can move around on map)
