@@ -21,11 +21,11 @@
 
 ## Steps overall (Assignments not final)
 - Create, parse and display simple world (Daniela)
-- Implement character movement, collisions, ... (Bela)
+- Implement character movement, collisions, animations(?), ... (Bela)
 - Inventory management (Bela)
 - NPCs (and enemies) (Daniela)
-- Turn-based combat (?)
-- Saving and loading (?)
+- Turn-based combat (Daniela)
+- Saving and loading (Bela)
 - Final world with story (Both)
 
 # Week 1
