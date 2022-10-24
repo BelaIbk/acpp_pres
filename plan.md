@@ -37,9 +37,28 @@
 - Create placeholder map with Tiled
 - Planned future steps
 
+## Code examples
 ![](images/structure.jpg)
 
+```cmake
+FetchContent_Declare(
+        SFML
+        GIT_REPOSITORY https://github.com/SFML/SFML.git
+        GIT_TAG 2.5.1
+)
+add_subdirectory(sfml)
+```
+in /sfml:
+```cmake
+message(STATUS "Fetching SFML...")
 
+set(SFML_BUILD_SYSTEM TRUE)
+set(SFML_BUILD_GRAPHICS TRUE)
+set(SFML_BUILD_AUDIO TRUE)
+set(SFML_BUILD_NETWORK FALSE)
+
+FetchContent_MakeAvailable(sfml)
+```
 
 ## Next steps
 - Create, parse and display simple world
