@@ -19,14 +19,14 @@
 
 ![](images/ninja_adventure_preview.png)
 
-## Steps overall
-- Create, parse and display simple world
-- Implement main character that can move around on map
-- Inventory management
-- NPCs (and enemies)
-- Turn-based combat
-- Saving and loading
-- Final world with story
+## Steps overall (Assignments not final)
+- Create, parse and display simple world (Daniela)
+- Implement character movement, collisions, ... (Bela)
+- Inventory management (Bela)
+- NPCs (and enemies) (Daniela)
+- Turn-based combat (?)
+- Saving and loading (?)
+- Final world with story (Both)
 
 # Week 1
 
